@@ -1,1 +1,1 @@
-true
+Alpha version is only for testing. Every new features will be implemented in the future!
